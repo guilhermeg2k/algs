@@ -68,6 +68,7 @@ function three_sum(arr, target)
 end
 
 function test()
+
   local tests = {
     {
       arr = { -1, 0, 1, 2, -1, -4 },
